@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/yourprofile)
-[![TryHackMe](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)](https://tryhackme.com/p/KZEbe)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_Profile-red)](https://tryhackme.com/p/KZEbe)
 
 ---
 
