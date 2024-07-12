@@ -18,9 +18,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Languages
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJYF&layout=compact&theme=radical)
 
 ---
 
@@ -43,9 +43,11 @@ COMMIN SOON
 
 ---
 
-## 💬 Languages
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJYF&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
+
+
 
 ---
 
