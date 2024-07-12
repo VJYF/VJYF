@@ -3,7 +3,7 @@
 **Penetration Tester | SOC Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-red)](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-red)](https://github.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-red)](https://github.com/VJYF)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/KZEbe)
 
 ---
