@@ -1,9 +1,8 @@
-# 👨‍💻 [Your Name]
+# 👨‍💻 [VJYF]
 
 **Penetration Tester | SOC Analyst**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-red)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-red)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-red)](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-red)](https://github.com/yourprofile)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/KZEbe)
 
@@ -11,59 +10,42 @@
 
 ## 🛠 Skills & Expertise
 
-- **Penetration Testing**: Network, Web Application, Wireless, Mobile
+- **Penetration Testing**: Network, Web Application, ...
 - **Security Operations Center (SOC)**: Incident Detection and Response, Threat Hunting, SIEM
-- **Security Tools**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Snort
-- **Programming & Scripting**: Python, Bash, PowerShell, JavaScript
-- **Certifications**: OSCP, CEH, CISSP, CompTIA Security+
+- **Security Tools**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Snort, ...
+- **Programming & Scripting**: Python, Bash, PowerShell, JavaScript, PHP, SQL, Java, ...
+- **Certifications**: SC-900
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
 
 ---
 
 ## 📁 Projects
 
-### 🔒 [Project 1: Vulnerability Assessment Tool](https://github.com/yourusername/project1)
-A custom vulnerability assessment tool built using Python, designed to automate the discovery of network vulnerabilities.
-
-### 🕵️‍♂️ [Project 2: Incident Response Playbook](https://github.com/yourusername/project2)
-An Incident Response Playbook for handling and responding to various types of cybersecurity incidents.
-
-### 🌐 [Project 3: Web Application Penetration Testing Framework](https://github.com/yourusername/project3)
-A comprehensive framework for performing web application penetration testing, including automated scanning and manual testing techniques.
-
----
-
-## 📝 Blog Posts
-
-- [The Importance of Threat Hunting in Modern SOCs](https://yourblog.com/threat-hunting)
-- [Top 10 Web Application Vulnerabilities](https://yourblog.com/web-vulnerabilities)
-- [How to Get Started with Penetration Testing](https://yourblog.com/getting-started-pen-testing)
+COMMIN SOON
 
 ---
 
 ## 🎓 Education
 
-- **MSc in Cybersecurity**, [Your University], 20XX - 20XX
-- **BSc in Computer Science**, [Your University], 20XX - 20XX
+- **BeCode** [Cyber Security Analyst (Bootcamp)]
+- **IFAPME**, [Web Developer]
 
 ---
 
 ## 📫 Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [twitter.com/yourprofile](https://twitter.com/yourprofile)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
 
 ---
 
 ## 💬 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJYF&layout=compact&theme=radical)
 
 ---
 
