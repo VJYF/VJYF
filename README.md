@@ -39,7 +39,7 @@ COMMIN SOON
 
 ## 📫 Contact
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
+- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
 
 ---
 
