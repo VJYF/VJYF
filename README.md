@@ -33,7 +33,7 @@ COMMIN SOON
 ## 🎓 Education
 
 - **BeCode** [Cyber Security Analyst (Bootcamp)]
-- **IFAPME**, [Web Developer]
+- **IFAPME** [Web Developer]
 
 ---
 
