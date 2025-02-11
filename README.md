@@ -26,7 +26,7 @@
 
 ## 📁 Projects
 
-COMMIN SOON
+SecurePlace 
 
 ---
 
@@ -45,7 +45,7 @@ COMMIN SOON
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
+![VJYF](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
 
 
 
