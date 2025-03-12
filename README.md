@@ -14,7 +14,7 @@
 - **Security Operations Center (SOC)**: Incident Detection and Response, Threat Hunting, SIEM
 - **Security Tools**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Snort, ...
 - **Programming & Scripting**: Python, Bash, PowerShell, JavaScript, PHP, SQL, Java, ...
-- **Certifications**: SC-900
+- **Certifications**: SC-900(Microsoft), Jr Pentester(TryHackMe)
 
 ---
 
