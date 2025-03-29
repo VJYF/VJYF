@@ -36,12 +36,6 @@ SecurePlace
 
 ---
 
-## 📫 Contact
-
-- **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/vincent-jimenez-y-fernandez)
-
----
-
 ## 📊 GitHub Stats
 
 ![VJYF](https://github-readme-stats.vercel.app/api?username=VJYF&show_icons=true&theme=radical)
